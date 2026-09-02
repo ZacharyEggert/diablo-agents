@@ -45,6 +45,8 @@ What's Included:
 
 ```
 
+When the copy is assembled and there are no more questions or clarifications needed from the user, the listing can be considered "done"; offer to copy it to the clipboard.
+
 ---
 
 For listing examples, see `examples/` directory.
